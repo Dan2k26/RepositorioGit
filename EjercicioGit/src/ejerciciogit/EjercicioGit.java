@@ -16,9 +16,8 @@ public class EjercicioGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Control");
-        System.out.println("de Versiones");
-        
+       System.out.println("En la rama. Se crea la clase nueva");
+    }   
     }
     
-}
+
